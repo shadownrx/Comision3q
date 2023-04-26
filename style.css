@@ -1,0 +1,19 @@
+body{
+    background-color: aqua;
+}
+
+h1{
+    font-weight: bold;
+    font-size: 1.5em;
+    margin: 0;
+    text-align: center;
+    color: black;
+}
+
+p{
+    color:black;
+}
+
+p, h1 :hover {
+    color: black;
+}
